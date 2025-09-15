@@ -1,2 +1,5 @@
-2025-09-14 20:23:11 | INFO | Consumed message: 'Exosuits gave miners the strength of titans.' by Draco
-2025-09-14 20:23:11 | INFO | Sent message to topic 'buzzline_json': {'message': 'Exosuits gave miners the strength of titans.', 'author': 'Draco'}
+2025-09-14 20:42:22 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:42:22.695533', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:42:22 | INFO | Rolling window size: 10
+2025-09-14 20:42:22 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:42:22 | INFO | STALL DETECTED at 2025-09-15T01:42:22.695533: Temp stable at 142.2°F over last 10 readings.
+2025-09-14 20:42:22 | WARNING | ALERT! High temperature detected at 2025-09-15T01:42:22.695533: 142.2°F

@@ -1,0 +1,410 @@
+2025-09-14 20:40:07 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:07.661909', 'temperature': 137.2, 'high_temp': True}
+2025-09-14 20:40:07 | INFO | Rolling window size: 10
+2025-09-14 20:40:07 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:07 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:07.661909: 137.2°F
+2025-09-14 20:40:08 | INFO | Sent message to topic 'buzzline_json': {'message': 'Radiation shields barely held during the flare.', 'author': 'Apollo'}
+2025-09-14 20:40:08 | INFO | Consumed message: 'Radiation shields barely held during the flare.' by Apollo
+2025-09-14 20:40:09 | INFO | Sent message to topic 'buzzline_json': {'message': 'The mining colony vanished overnight without a trace.', 'author': 'Zephyr'}
+2025-09-14 20:40:09 | INFO | Consumed message: 'The mining colony vanished overnight without a trace.' by Zephyr
+2025-09-14 20:40:10 | INFO | Sent message to topic 'buzzline_json': {'message': 'Alien ruins suggest a civilization older than Earth.', 'author': 'Andromeda'}
+2025-09-14 20:40:10 | INFO | Consumed message: 'Alien ruins suggest a civilization older than Earth.' by Andromeda
+2025-09-14 20:40:11 | INFO | Sent message to topic 'buzzline_json': {'message': 'The fusion core hummed louder than usual.', 'author': 'Horizon'}
+2025-09-14 20:40:11 | INFO | Consumed message: 'The fusion core hummed louder than usual.' by Horizon
+2025-09-14 20:40:12 | INFO | Sent message to topic 'buzzline_json': {'message': 'Smugglers trade in forbidden nanotech along the belt.', 'author': 'Kestrel'}
+2025-09-14 20:40:12 | INFO | Consumed message: 'Smugglers trade in forbidden nanotech along the belt.' by Kestrel
+2025-09-14 20:40:12 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:40:12.663431', 'temperature': 137.6, 'high_temp': True}
+2025-09-14 20:40:12 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:12.663431', 'temperature': 137.6, 'high_temp': True}
+2025-09-14 20:40:12 | INFO | Rolling window size: 10
+2025-09-14 20:40:12 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:12 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:12.663431: 137.6°F
+2025-09-14 20:40:13 | INFO | Sent message to topic 'buzzline_json': {'message': 'Exosuits gave miners the strength of titans.', 'author': 'Draco'}
+2025-09-14 20:40:13 | INFO | Consumed message: 'Exosuits gave miners the strength of titans.' by Draco
+2025-09-14 20:40:14 | INFO | Sent message to topic 'buzzline_json': {'message': 'The Martian sunrise turned the sky violet and gold.', 'author': 'Phoenix'}
+2025-09-14 20:40:14 | INFO | Consumed message: 'The Martian sunrise turned the sky violet and gold.' by Phoenix
+2025-09-14 20:40:15 | INFO | Sent message to topic 'buzzline_json': {'message': 'Colonists fear the shadows beyond the outer dome.', 'author': 'Luna'}
+2025-09-14 20:40:15 | INFO | Consumed message: 'Colonists fear the shadows beyond the outer dome.' by Luna
+2025-09-14 20:40:16 | INFO | Sent message to topic 'buzzline_json': {'message': 'The black holeâ€™s pull warped every sensor reading.', 'author': 'Oberon'}
+2025-09-14 20:40:16 | INFO | Consumed message: 'The black holeâ€™s pull warped every sensor reading.' by Oberon
+2025-09-14 20:40:17 | INFO | Sent message to topic 'buzzline_json': {'message': 'Synthetic food printers failed during the blockade.', 'author': 'Cetus'}
+2025-09-14 20:40:17 | INFO | Consumed message: 'Synthetic food printers failed during the blockade.' by Cetus
+2025-09-14 20:40:17 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:40:17.664429', 'temperature': 138.0, 'high_temp': True}
+2025-09-14 20:40:17 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:17.664429', 'temperature': 138.0, 'high_temp': True}
+2025-09-14 20:40:17 | INFO | Rolling window size: 10
+2025-09-14 20:40:17 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:17 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:17.664429: 138.0°F
+2025-09-14 20:40:18 | INFO | Sent message to topic 'buzzline_json': {'message': 'Engineers discovered music hidden in pulsar signals.', 'author': 'Lyric'}
+2025-09-14 20:40:18 | INFO | Consumed message: 'Engineers discovered music hidden in pulsar signals.' by Lyric
+2025-09-14 20:40:19 | INFO | Sent message to topic 'buzzline_json': {'message': 'The jump gate refused to stabilize on this side.', 'author': 'Nexus'}
+2025-09-14 20:40:19 | INFO | Consumed message: 'The jump gate refused to stabilize on this side.' by Nexus
+2025-09-14 20:40:20 | INFO | Sent message to topic 'buzzline_json': {'message': 'The crew whispered about ghosts in the air ducts.', 'author': 'Echo'}
+2025-09-14 20:40:20 | INFO | Consumed message: 'The crew whispered about ghosts in the air ducts.' by Echo
+2025-09-14 20:40:21 | INFO | Sent message to topic 'buzzline_json': {'message': 'Genetic experiments created crops that glow at night.', 'author': 'Gaia'}
+2025-09-14 20:40:21 | INFO | Consumed message: 'Genetic experiments created crops that glow at night.' by Gaia
+2025-09-14 20:40:22 | INFO | Sent message to topic 'buzzline_json': {'message': 'Asteroid defenses activated without any command.', 'author': 'Titan'}
+2025-09-14 20:40:22 | INFO | Consumed message: 'Asteroid defenses activated without any command.' by Titan
+2025-09-14 20:40:22 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:40:22.665588', 'temperature': 138.4, 'high_temp': True}
+2025-09-14 20:40:22 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:22.665588', 'temperature': 138.4, 'high_temp': True}
+2025-09-14 20:40:22 | INFO | Rolling window size: 10
+2025-09-14 20:40:22 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:22 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:22.665588: 138.4°F
+2025-09-14 20:40:23 | INFO | Sent message to topic 'buzzline_json': {'message': 'Explorers mapped the crystalline caves beneath Europa.', 'author': 'Callisto'}
+2025-09-14 20:40:23 | INFO | Consumed message: 'Explorers mapped the crystalline caves beneath Europa.' by Callisto
+2025-09-14 20:40:24 | INFO | Sent message to topic 'buzzline_json': {'message': 'The AI swore it dreamed of oceans and forests.', 'author': 'Sigma'}
+2025-09-14 20:40:24 | INFO | Consumed message: 'The AI swore it dreamed of oceans and forests.' by Sigma
+2025-09-14 20:40:25 | INFO | Opening data file in read mode: PROJECT_ROOT/data/science_fiction.json
+2025-09-14 20:40:25 | INFO | Reading data from file: PROJECT_ROOT/data/science_fiction.json
+2025-09-14 20:40:25 | INFO | Sent message to topic 'buzzline_json': {'message': 'The colony dome held steady against the Martian storm.', 'author': 'Nova'}
+2025-09-14 20:40:25 | INFO | Consumed message: 'The colony dome held steady against the Martian storm.' by Nova
+2025-09-14 20:40:26 | INFO | Sent message to topic 'buzzline_json': {'message': 'Quantum drives cut the journey to weeks instead of years.', 'author': 'Orion'}
+2025-09-14 20:40:26 | INFO | Consumed message: 'Quantum drives cut the journey to weeks instead of years.' by Orion
+2025-09-14 20:40:27 | INFO | Sent message to topic 'buzzline_json': {'message': 'Artificial gravity failed on Deck 7 again.', 'author': 'Lyra'}
+2025-09-14 20:40:27 | INFO | Consumed message: 'Artificial gravity failed on Deck 7 again.' by Lyra
+2025-09-14 20:40:27 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:40:27.666840', 'temperature': 138.8, 'high_temp': True}
+2025-09-14 20:40:27 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:27.666840', 'temperature': 138.8, 'high_temp': True}
+2025-09-14 20:40:27 | INFO | Rolling window size: 10
+2025-09-14 20:40:27 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:27 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:27.666840: 138.8°F
+2025-09-14 20:40:28 | INFO | Sent message to topic 'buzzline_json': {'message': 'Terraforming progress reached 42% completion.', 'author': 'Cassiopeia'}
+2025-09-14 20:40:28 | INFO | Consumed message: 'Terraforming progress reached 42% completion.' by Cassiopeia
+2025-09-14 20:40:29 | INFO | Sent message to topic 'buzzline_json': {'message': 'First contact was nothing like the simulations predicted.', 'author': 'Vega'}
+2025-09-14 20:40:29 | INFO | Consumed message: 'First contact was nothing like the simulations predicted.' by Vega
+2025-09-14 20:40:30 | INFO | Sent message to topic 'buzzline_json': {'message': 'Cryosleep chambers malfunctioned mid-voyage.', 'author': 'Atlas'}
+2025-09-14 20:40:30 | INFO | Consumed message: 'Cryosleep chambers malfunctioned mid-voyage.' by Atlas
+2025-09-14 20:40:31 | INFO | Sent message to topic 'buzzline_json': {'message': 'Asteroid miners uncovered strange alien alloys.', 'author': 'Zenith'}
+2025-09-14 20:40:31 | INFO | Consumed message: 'Asteroid miners uncovered strange alien alloys.' by Zenith
+2025-09-14 20:40:32 | INFO | Sent message to topic 'buzzline_json': {'message': 'A rogue AI now controls half the satellite network.', 'author': 'Helix'}
+2025-09-14 20:40:32 | INFO | Consumed message: 'A rogue AI now controls half the satellite network.' by Helix
+2025-09-14 20:40:32 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:40:32.668372', 'temperature': 139.2, 'high_temp': True}
+2025-09-14 20:40:32 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:32.668372', 'temperature': 139.2, 'high_temp': True}
+2025-09-14 20:40:32 | INFO | Rolling window size: 10
+2025-09-14 20:40:32 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:32 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:32.668372: 139.2°F
+2025-09-14 20:40:33 | INFO | Sent message to topic 'buzzline_json': {'message': 'The wormhole pulsed brighter than the nearby suns.', 'author': 'Aurora'}
+2025-09-14 20:40:33 | INFO | Consumed message: 'The wormhole pulsed brighter than the nearby suns.' by Aurora
+2025-09-14 20:40:34 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hydroponics yielded the first Martian strawberries.', 'author': 'Icarus'}
+2025-09-14 20:40:34 | INFO | Consumed message: 'Hydroponics yielded the first Martian strawberries.' by Icarus
+2025-09-14 20:40:35 | INFO | Sent message to topic 'buzzline_json': {'message': 'Dark energy storms make navigation unpredictable.', 'author': 'Nyx'}
+2025-09-14 20:40:35 | INFO | Consumed message: 'Dark energy storms make navigation unpredictable.' by Nyx
+2025-09-14 20:40:36 | INFO | Sent message to topic 'buzzline_json': {'message': 'Neural implants caused unexpected shared dreams.', 'author': 'Echo'}
+2025-09-14 20:40:36 | INFO | Consumed message: 'Neural implants caused unexpected shared dreams.' by Echo
+2025-09-14 20:40:37 | INFO | Sent message to topic 'buzzline_json': {'message': 'The council debated lifting the clone restrictions.', 'author': 'Rhea'}
+2025-09-14 20:40:37 | INFO | Consumed message: 'The council debated lifting the clone restrictions.' by Rhea
+2025-09-14 20:40:37 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:40:37.669297', 'temperature': 139.6, 'high_temp': True}
+2025-09-14 20:40:37 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:37.669297', 'temperature': 139.6, 'high_temp': True}
+2025-09-14 20:40:37 | INFO | Rolling window size: 10
+2025-09-14 20:40:37 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:37 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:37.669297: 139.6°F
+2025-09-14 20:40:38 | INFO | Sent message to topic 'buzzline_json': {'message': 'Radiation shields barely held during the flare.', 'author': 'Apollo'}
+2025-09-14 20:40:38 | INFO | Consumed message: 'Radiation shields barely held during the flare.' by Apollo
+2025-09-14 20:40:39 | INFO | Sent message to topic 'buzzline_json': {'message': 'The mining colony vanished overnight without a trace.', 'author': 'Zephyr'}
+2025-09-14 20:40:39 | INFO | Consumed message: 'The mining colony vanished overnight without a trace.' by Zephyr
+2025-09-14 20:40:40 | INFO | Sent message to topic 'buzzline_json': {'message': 'Alien ruins suggest a civilization older than Earth.', 'author': 'Andromeda'}
+2025-09-14 20:40:40 | INFO | Consumed message: 'Alien ruins suggest a civilization older than Earth.' by Andromeda
+2025-09-14 20:40:41 | INFO | Sent message to topic 'buzzline_json': {'message': 'The fusion core hummed louder than usual.', 'author': 'Horizon'}
+2025-09-14 20:40:41 | INFO | Consumed message: 'The fusion core hummed louder than usual.' by Horizon
+2025-09-14 20:40:42 | INFO | Sent message to topic 'buzzline_json': {'message': 'Smugglers trade in forbidden nanotech along the belt.', 'author': 'Kestrel'}
+2025-09-14 20:40:42 | INFO | Consumed message: 'Smugglers trade in forbidden nanotech along the belt.' by Kestrel
+2025-09-14 20:40:42 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:40:42.670617', 'temperature': 140.0, 'high_temp': True}
+2025-09-14 20:40:42 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:42.670617', 'temperature': 140.0, 'high_temp': True}
+2025-09-14 20:40:42 | INFO | Rolling window size: 10
+2025-09-14 20:40:42 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:42 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:42.670617: 140.0°F
+2025-09-14 20:40:43 | INFO | Sent message to topic 'buzzline_json': {'message': 'Exosuits gave miners the strength of titans.', 'author': 'Draco'}
+2025-09-14 20:40:43 | INFO | Consumed message: 'Exosuits gave miners the strength of titans.' by Draco
+2025-09-14 20:40:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'The Martian sunrise turned the sky violet and gold.', 'author': 'Phoenix'}
+2025-09-14 20:40:44 | INFO | Consumed message: 'The Martian sunrise turned the sky violet and gold.' by Phoenix
+2025-09-14 20:40:45 | INFO | Sent message to topic 'buzzline_json': {'message': 'Colonists fear the shadows beyond the outer dome.', 'author': 'Luna'}
+2025-09-14 20:40:45 | INFO | Consumed message: 'Colonists fear the shadows beyond the outer dome.' by Luna
+2025-09-14 20:40:46 | INFO | Sent message to topic 'buzzline_json': {'message': 'The black holeâ€™s pull warped every sensor reading.', 'author': 'Oberon'}
+2025-09-14 20:40:46 | INFO | Consumed message: 'The black holeâ€™s pull warped every sensor reading.' by Oberon
+2025-09-14 20:40:47 | INFO | Sent message to topic 'buzzline_json': {'message': 'Synthetic food printers failed during the blockade.', 'author': 'Cetus'}
+2025-09-14 20:40:47 | INFO | Consumed message: 'Synthetic food printers failed during the blockade.' by Cetus
+2025-09-14 20:40:47 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:40:47.672557', 'temperature': 140.4, 'high_temp': True}
+2025-09-14 20:40:47 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:47.672557', 'temperature': 140.4, 'high_temp': True}
+2025-09-14 20:40:47 | INFO | Rolling window size: 10
+2025-09-14 20:40:47 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:47 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:47.672557: 140.4°F
+2025-09-14 20:40:48 | INFO | Sent message to topic 'buzzline_json': {'message': 'Engineers discovered music hidden in pulsar signals.', 'author': 'Lyric'}
+2025-09-14 20:40:48 | INFO | Consumed message: 'Engineers discovered music hidden in pulsar signals.' by Lyric
+2025-09-14 20:40:49 | INFO | Sent message to topic 'buzzline_json': {'message': 'The jump gate refused to stabilize on this side.', 'author': 'Nexus'}
+2025-09-14 20:40:49 | INFO | Consumed message: 'The jump gate refused to stabilize on this side.' by Nexus
+2025-09-14 20:40:50 | INFO | Sent message to topic 'buzzline_json': {'message': 'The crew whispered about ghosts in the air ducts.', 'author': 'Echo'}
+2025-09-14 20:40:50 | INFO | Consumed message: 'The crew whispered about ghosts in the air ducts.' by Echo
+2025-09-14 20:40:51 | INFO | Sent message to topic 'buzzline_json': {'message': 'Genetic experiments created crops that glow at night.', 'author': 'Gaia'}
+2025-09-14 20:40:51 | INFO | Consumed message: 'Genetic experiments created crops that glow at night.' by Gaia
+2025-09-14 20:40:52 | INFO | Sent message to topic 'buzzline_json': {'message': 'Asteroid defenses activated without any command.', 'author': 'Titan'}
+2025-09-14 20:40:52 | INFO | Consumed message: 'Asteroid defenses activated without any command.' by Titan
+2025-09-14 20:40:52 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:40:52.674066', 'temperature': 140.8, 'high_temp': True}
+2025-09-14 20:40:52 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:52.674066', 'temperature': 140.8, 'high_temp': True}
+2025-09-14 20:40:52 | INFO | Rolling window size: 10
+2025-09-14 20:40:52 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:52 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:52.674066: 140.8°F
+2025-09-14 20:40:53 | INFO | Sent message to topic 'buzzline_json': {'message': 'Explorers mapped the crystalline caves beneath Europa.', 'author': 'Callisto'}
+2025-09-14 20:40:53 | INFO | Consumed message: 'Explorers mapped the crystalline caves beneath Europa.' by Callisto
+2025-09-14 20:40:54 | INFO | Sent message to topic 'buzzline_json': {'message': 'The AI swore it dreamed of oceans and forests.', 'author': 'Sigma'}
+2025-09-14 20:40:54 | INFO | Consumed message: 'The AI swore it dreamed of oceans and forests.' by Sigma
+2025-09-14 20:40:55 | INFO | Opening data file in read mode: PROJECT_ROOT/data/science_fiction.json
+2025-09-14 20:40:55 | INFO | Reading data from file: PROJECT_ROOT/data/science_fiction.json
+2025-09-14 20:40:55 | INFO | Sent message to topic 'buzzline_json': {'message': 'The colony dome held steady against the Martian storm.', 'author': 'Nova'}
+2025-09-14 20:40:55 | INFO | Consumed message: 'The colony dome held steady against the Martian storm.' by Nova
+2025-09-14 20:40:56 | INFO | Sent message to topic 'buzzline_json': {'message': 'Quantum drives cut the journey to weeks instead of years.', 'author': 'Orion'}
+2025-09-14 20:40:56 | INFO | Consumed message: 'Quantum drives cut the journey to weeks instead of years.' by Orion
+2025-09-14 20:40:57 | INFO | Sent message to topic 'buzzline_json': {'message': 'Artificial gravity failed on Deck 7 again.', 'author': 'Lyra'}
+2025-09-14 20:40:57 | INFO | Consumed message: 'Artificial gravity failed on Deck 7 again.' by Lyra
+2025-09-14 20:40:57 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:40:57.675851', 'temperature': 141.2, 'high_temp': True}
+2025-09-14 20:40:57 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:40:57.675851', 'temperature': 141.2, 'high_temp': True}
+2025-09-14 20:40:57 | INFO | Rolling window size: 10
+2025-09-14 20:40:57 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:40:57 | WARNING | ALERT! High temperature detected at 2025-09-15T01:40:57.675851: 141.2°F
+2025-09-14 20:40:58 | INFO | Sent message to topic 'buzzline_json': {'message': 'Terraforming progress reached 42% completion.', 'author': 'Cassiopeia'}
+2025-09-14 20:40:58 | INFO | Consumed message: 'Terraforming progress reached 42% completion.' by Cassiopeia
+2025-09-14 20:40:59 | INFO | Sent message to topic 'buzzline_json': {'message': 'First contact was nothing like the simulations predicted.', 'author': 'Vega'}
+2025-09-14 20:40:59 | INFO | Consumed message: 'First contact was nothing like the simulations predicted.' by Vega
+2025-09-14 20:41:00 | INFO | Sent message to topic 'buzzline_json': {'message': 'Cryosleep chambers malfunctioned mid-voyage.', 'author': 'Atlas'}
+2025-09-14 20:41:00 | INFO | Consumed message: 'Cryosleep chambers malfunctioned mid-voyage.' by Atlas
+2025-09-14 20:41:01 | INFO | Sent message to topic 'buzzline_json': {'message': 'Asteroid miners uncovered strange alien alloys.', 'author': 'Zenith'}
+2025-09-14 20:41:01 | INFO | Consumed message: 'Asteroid miners uncovered strange alien alloys.' by Zenith
+2025-09-14 20:41:02 | INFO | Sent message to topic 'buzzline_json': {'message': 'A rogue AI now controls half the satellite network.', 'author': 'Helix'}
+2025-09-14 20:41:02 | INFO | Consumed message: 'A rogue AI now controls half the satellite network.' by Helix
+2025-09-14 20:41:02 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:02.676961', 'temperature': 141.6, 'high_temp': True}
+2025-09-14 20:41:02 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:02.676961', 'temperature': 141.6, 'high_temp': True}
+2025-09-14 20:41:02 | INFO | Rolling window size: 10
+2025-09-14 20:41:02 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:02 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:02.676961: 141.6°F
+2025-09-14 20:41:03 | INFO | Sent message to topic 'buzzline_json': {'message': 'The wormhole pulsed brighter than the nearby suns.', 'author': 'Aurora'}
+2025-09-14 20:41:03 | INFO | Consumed message: 'The wormhole pulsed brighter than the nearby suns.' by Aurora
+2025-09-14 20:41:04 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hydroponics yielded the first Martian strawberries.', 'author': 'Icarus'}
+2025-09-14 20:41:04 | INFO | Consumed message: 'Hydroponics yielded the first Martian strawberries.' by Icarus
+2025-09-14 20:41:05 | INFO | Sent message to topic 'buzzline_json': {'message': 'Dark energy storms make navigation unpredictable.', 'author': 'Nyx'}
+2025-09-14 20:41:05 | INFO | Consumed message: 'Dark energy storms make navigation unpredictable.' by Nyx
+2025-09-14 20:41:06 | INFO | Sent message to topic 'buzzline_json': {'message': 'Neural implants caused unexpected shared dreams.', 'author': 'Echo'}
+2025-09-14 20:41:06 | INFO | Consumed message: 'Neural implants caused unexpected shared dreams.' by Echo
+2025-09-14 20:41:07 | INFO | Sent message to topic 'buzzline_json': {'message': 'The council debated lifting the clone restrictions.', 'author': 'Rhea'}
+2025-09-14 20:41:07 | INFO | Consumed message: 'The council debated lifting the clone restrictions.' by Rhea
+2025-09-14 20:41:07 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:07.678158', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:07 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:07.678158', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:07 | INFO | Rolling window size: 10
+2025-09-14 20:41:07 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:07 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:07.678158: 142.0°F
+2025-09-14 20:41:08 | INFO | Sent message to topic 'buzzline_json': {'message': 'Radiation shields barely held during the flare.', 'author': 'Apollo'}
+2025-09-14 20:41:08 | INFO | Consumed message: 'Radiation shields barely held during the flare.' by Apollo
+2025-09-14 20:41:09 | INFO | Sent message to topic 'buzzline_json': {'message': 'The mining colony vanished overnight without a trace.', 'author': 'Zephyr'}
+2025-09-14 20:41:09 | INFO | Consumed message: 'The mining colony vanished overnight without a trace.' by Zephyr
+2025-09-14 20:41:10 | INFO | Sent message to topic 'buzzline_json': {'message': 'Alien ruins suggest a civilization older than Earth.', 'author': 'Andromeda'}
+2025-09-14 20:41:10 | INFO | Consumed message: 'Alien ruins suggest a civilization older than Earth.' by Andromeda
+2025-09-14 20:41:11 | INFO | Sent message to topic 'buzzline_json': {'message': 'The fusion core hummed louder than usual.', 'author': 'Horizon'}
+2025-09-14 20:41:11 | INFO | Consumed message: 'The fusion core hummed louder than usual.' by Horizon
+2025-09-14 20:41:12 | INFO | Sent message to topic 'buzzline_json': {'message': 'Smugglers trade in forbidden nanotech along the belt.', 'author': 'Kestrel'}
+2025-09-14 20:41:12 | INFO | Consumed message: 'Smugglers trade in forbidden nanotech along the belt.' by Kestrel
+2025-09-14 20:41:12 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:12.679484', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:41:12 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:12.679484', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:41:12 | INFO | Rolling window size: 10
+2025-09-14 20:41:12 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:12 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:12.679484: 142.2°F
+2025-09-14 20:41:13 | INFO | Sent message to topic 'buzzline_json': {'message': 'Exosuits gave miners the strength of titans.', 'author': 'Draco'}
+2025-09-14 20:41:13 | INFO | Consumed message: 'Exosuits gave miners the strength of titans.' by Draco
+2025-09-14 20:41:14 | INFO | Sent message to topic 'buzzline_json': {'message': 'The Martian sunrise turned the sky violet and gold.', 'author': 'Phoenix'}
+2025-09-14 20:41:14 | INFO | Consumed message: 'The Martian sunrise turned the sky violet and gold.' by Phoenix
+2025-09-14 20:41:15 | INFO | Sent message to topic 'buzzline_json': {'message': 'Colonists fear the shadows beyond the outer dome.', 'author': 'Luna'}
+2025-09-14 20:41:15 | INFO | Consumed message: 'Colonists fear the shadows beyond the outer dome.' by Luna
+2025-09-14 20:41:16 | INFO | Sent message to topic 'buzzline_json': {'message': 'The black holeâ€™s pull warped every sensor reading.', 'author': 'Oberon'}
+2025-09-14 20:41:16 | INFO | Consumed message: 'The black holeâ€™s pull warped every sensor reading.' by Oberon
+2025-09-14 20:41:17 | INFO | Sent message to topic 'buzzline_json': {'message': 'Synthetic food printers failed during the blockade.', 'author': 'Cetus'}
+2025-09-14 20:41:17 | INFO | Consumed message: 'Synthetic food printers failed during the blockade.' by Cetus
+2025-09-14 20:41:17 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:17.680580', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:17 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:17.680580', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:17 | INFO | Rolling window size: 10
+2025-09-14 20:41:17 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:17 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:17.680580: 142.0°F
+2025-09-14 20:41:18 | INFO | Sent message to topic 'buzzline_json': {'message': 'Engineers discovered music hidden in pulsar signals.', 'author': 'Lyric'}
+2025-09-14 20:41:18 | INFO | Consumed message: 'Engineers discovered music hidden in pulsar signals.' by Lyric
+2025-09-14 20:41:19 | INFO | Sent message to topic 'buzzline_json': {'message': 'The jump gate refused to stabilize on this side.', 'author': 'Nexus'}
+2025-09-14 20:41:19 | INFO | Consumed message: 'The jump gate refused to stabilize on this side.' by Nexus
+2025-09-14 20:41:20 | INFO | Sent message to topic 'buzzline_json': {'message': 'The crew whispered about ghosts in the air ducts.', 'author': 'Echo'}
+2025-09-14 20:41:20 | INFO | Consumed message: 'The crew whispered about ghosts in the air ducts.' by Echo
+2025-09-14 20:41:21 | INFO | Sent message to topic 'buzzline_json': {'message': 'Genetic experiments created crops that glow at night.', 'author': 'Gaia'}
+2025-09-14 20:41:21 | INFO | Consumed message: 'Genetic experiments created crops that glow at night.' by Gaia
+2025-09-14 20:41:22 | INFO | Sent message to topic 'buzzline_json': {'message': 'Asteroid defenses activated without any command.', 'author': 'Titan'}
+2025-09-14 20:41:22 | INFO | Consumed message: 'Asteroid defenses activated without any command.' by Titan
+2025-09-14 20:41:22 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:22.681622', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:41:22 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:22.681622', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:41:22 | INFO | Rolling window size: 10
+2025-09-14 20:41:22 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:22 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:22.681622: 142.2°F
+2025-09-14 20:41:23 | INFO | Sent message to topic 'buzzline_json': {'message': 'Explorers mapped the crystalline caves beneath Europa.', 'author': 'Callisto'}
+2025-09-14 20:41:23 | INFO | Consumed message: 'Explorers mapped the crystalline caves beneath Europa.' by Callisto
+2025-09-14 20:41:24 | INFO | Sent message to topic 'buzzline_json': {'message': 'The AI swore it dreamed of oceans and forests.', 'author': 'Sigma'}
+2025-09-14 20:41:24 | INFO | Consumed message: 'The AI swore it dreamed of oceans and forests.' by Sigma
+2025-09-14 20:41:25 | INFO | Opening data file in read mode: PROJECT_ROOT/data/science_fiction.json
+2025-09-14 20:41:25 | INFO | Reading data from file: PROJECT_ROOT/data/science_fiction.json
+2025-09-14 20:41:25 | INFO | Sent message to topic 'buzzline_json': {'message': 'The colony dome held steady against the Martian storm.', 'author': 'Nova'}
+2025-09-14 20:41:25 | INFO | Consumed message: 'The colony dome held steady against the Martian storm.' by Nova
+2025-09-14 20:41:26 | INFO | Sent message to topic 'buzzline_json': {'message': 'Quantum drives cut the journey to weeks instead of years.', 'author': 'Orion'}
+2025-09-14 20:41:26 | INFO | Consumed message: 'Quantum drives cut the journey to weeks instead of years.' by Orion
+2025-09-14 20:41:27 | INFO | Sent message to topic 'buzzline_json': {'message': 'Artificial gravity failed on Deck 7 again.', 'author': 'Lyra'}
+2025-09-14 20:41:27 | INFO | Consumed message: 'Artificial gravity failed on Deck 7 again.' by Lyra
+2025-09-14 20:41:27 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:27.682555', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:27 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:27.682555', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:27 | INFO | Rolling window size: 10
+2025-09-14 20:41:27 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:27 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:27.682555: 142.0°F
+2025-09-14 20:41:28 | INFO | Sent message to topic 'buzzline_json': {'message': 'Terraforming progress reached 42% completion.', 'author': 'Cassiopeia'}
+2025-09-14 20:41:28 | INFO | Consumed message: 'Terraforming progress reached 42% completion.' by Cassiopeia
+2025-09-14 20:41:29 | INFO | Sent message to topic 'buzzline_json': {'message': 'First contact was nothing like the simulations predicted.', 'author': 'Vega'}
+2025-09-14 20:41:29 | INFO | Consumed message: 'First contact was nothing like the simulations predicted.' by Vega
+2025-09-14 20:41:30 | INFO | Sent message to topic 'buzzline_json': {'message': 'Cryosleep chambers malfunctioned mid-voyage.', 'author': 'Atlas'}
+2025-09-14 20:41:30 | INFO | Consumed message: 'Cryosleep chambers malfunctioned mid-voyage.' by Atlas
+2025-09-14 20:41:31 | INFO | Sent message to topic 'buzzline_json': {'message': 'Asteroid miners uncovered strange alien alloys.', 'author': 'Zenith'}
+2025-09-14 20:41:31 | INFO | Consumed message: 'Asteroid miners uncovered strange alien alloys.' by Zenith
+2025-09-14 20:41:32 | INFO | Sent message to topic 'buzzline_json': {'message': 'A rogue AI now controls half the satellite network.', 'author': 'Helix'}
+2025-09-14 20:41:32 | INFO | Consumed message: 'A rogue AI now controls half the satellite network.' by Helix
+2025-09-14 20:41:32 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:32.683728', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:41:32 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:32.683728', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:41:32 | INFO | Rolling window size: 10
+2025-09-14 20:41:32 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:32 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:32.683728: 142.2°F
+2025-09-14 20:41:33 | INFO | Sent message to topic 'buzzline_json': {'message': 'The wormhole pulsed brighter than the nearby suns.', 'author': 'Aurora'}
+2025-09-14 20:41:33 | INFO | Consumed message: 'The wormhole pulsed brighter than the nearby suns.' by Aurora
+2025-09-14 20:41:34 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hydroponics yielded the first Martian strawberries.', 'author': 'Icarus'}
+2025-09-14 20:41:34 | INFO | Consumed message: 'Hydroponics yielded the first Martian strawberries.' by Icarus
+2025-09-14 20:41:35 | INFO | Sent message to topic 'buzzline_json': {'message': 'Dark energy storms make navigation unpredictable.', 'author': 'Nyx'}
+2025-09-14 20:41:35 | INFO | Consumed message: 'Dark energy storms make navigation unpredictable.' by Nyx
+2025-09-14 20:41:36 | INFO | Sent message to topic 'buzzline_json': {'message': 'Neural implants caused unexpected shared dreams.', 'author': 'Echo'}
+2025-09-14 20:41:36 | INFO | Consumed message: 'Neural implants caused unexpected shared dreams.' by Echo
+2025-09-14 20:41:37 | INFO | Sent message to topic 'buzzline_json': {'message': 'The council debated lifting the clone restrictions.', 'author': 'Rhea'}
+2025-09-14 20:41:37 | INFO | Consumed message: 'The council debated lifting the clone restrictions.' by Rhea
+2025-09-14 20:41:37 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:37.685176', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:37 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:37.685176', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:37 | INFO | Rolling window size: 10
+2025-09-14 20:41:37 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:37 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:37.685176: 142.0°F
+2025-09-14 20:41:38 | INFO | Sent message to topic 'buzzline_json': {'message': 'Radiation shields barely held during the flare.', 'author': 'Apollo'}
+2025-09-14 20:41:38 | INFO | Consumed message: 'Radiation shields barely held during the flare.' by Apollo
+2025-09-14 20:41:39 | INFO | Sent message to topic 'buzzline_json': {'message': 'The mining colony vanished overnight without a trace.', 'author': 'Zephyr'}
+2025-09-14 20:41:39 | INFO | Consumed message: 'The mining colony vanished overnight without a trace.' by Zephyr
+2025-09-14 20:41:40 | INFO | Sent message to topic 'buzzline_json': {'message': 'Alien ruins suggest a civilization older than Earth.', 'author': 'Andromeda'}
+2025-09-14 20:41:40 | INFO | Consumed message: 'Alien ruins suggest a civilization older than Earth.' by Andromeda
+2025-09-14 20:41:41 | INFO | Sent message to topic 'buzzline_json': {'message': 'The fusion core hummed louder than usual.', 'author': 'Horizon'}
+2025-09-14 20:41:41 | INFO | Consumed message: 'The fusion core hummed louder than usual.' by Horizon
+2025-09-14 20:41:42 | INFO | Sent message to topic 'buzzline_json': {'message': 'Smugglers trade in forbidden nanotech along the belt.', 'author': 'Kestrel'}
+2025-09-14 20:41:42 | INFO | Consumed message: 'Smugglers trade in forbidden nanotech along the belt.' by Kestrel
+2025-09-14 20:41:42 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:42.686555', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:41:42 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:42.686555', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:41:42 | INFO | Rolling window size: 10
+2025-09-14 20:41:42 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:42 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:42.686555: 142.2°F
+2025-09-14 20:41:43 | INFO | Sent message to topic 'buzzline_json': {'message': 'Exosuits gave miners the strength of titans.', 'author': 'Draco'}
+2025-09-14 20:41:43 | INFO | Consumed message: 'Exosuits gave miners the strength of titans.' by Draco
+2025-09-14 20:41:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'The Martian sunrise turned the sky violet and gold.', 'author': 'Phoenix'}
+2025-09-14 20:41:44 | INFO | Consumed message: 'The Martian sunrise turned the sky violet and gold.' by Phoenix
+2025-09-14 20:41:45 | INFO | Sent message to topic 'buzzline_json': {'message': 'Colonists fear the shadows beyond the outer dome.', 'author': 'Luna'}
+2025-09-14 20:41:45 | INFO | Consumed message: 'Colonists fear the shadows beyond the outer dome.' by Luna
+2025-09-14 20:41:46 | INFO | Sent message to topic 'buzzline_json': {'message': 'The black holeâ€™s pull warped every sensor reading.', 'author': 'Oberon'}
+2025-09-14 20:41:46 | INFO | Consumed message: 'The black holeâ€™s pull warped every sensor reading.' by Oberon
+2025-09-14 20:41:47 | INFO | Sent message to topic 'buzzline_json': {'message': 'Synthetic food printers failed during the blockade.', 'author': 'Cetus'}
+2025-09-14 20:41:47 | INFO | Consumed message: 'Synthetic food printers failed during the blockade.' by Cetus
+2025-09-14 20:41:47 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:47.687670', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:47 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:47.687670', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:47 | INFO | Rolling window size: 10
+2025-09-14 20:41:47 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:47 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:47.687670: 142.0°F
+2025-09-14 20:41:48 | INFO | Sent message to topic 'buzzline_json': {'message': 'Engineers discovered music hidden in pulsar signals.', 'author': 'Lyric'}
+2025-09-14 20:41:48 | INFO | Consumed message: 'Engineers discovered music hidden in pulsar signals.' by Lyric
+2025-09-14 20:41:49 | INFO | Sent message to topic 'buzzline_json': {'message': 'The jump gate refused to stabilize on this side.', 'author': 'Nexus'}
+2025-09-14 20:41:49 | INFO | Consumed message: 'The jump gate refused to stabilize on this side.' by Nexus
+2025-09-14 20:41:50 | INFO | Sent message to topic 'buzzline_json': {'message': 'The crew whispered about ghosts in the air ducts.', 'author': 'Echo'}
+2025-09-14 20:41:50 | INFO | Consumed message: 'The crew whispered about ghosts in the air ducts.' by Echo
+2025-09-14 20:41:51 | INFO | Sent message to topic 'buzzline_json': {'message': 'Genetic experiments created crops that glow at night.', 'author': 'Gaia'}
+2025-09-14 20:41:51 | INFO | Consumed message: 'Genetic experiments created crops that glow at night.' by Gaia
+2025-09-14 20:41:52 | INFO | Sent message to topic 'buzzline_json': {'message': 'Asteroid defenses activated without any command.', 'author': 'Titan'}
+2025-09-14 20:41:52 | INFO | Consumed message: 'Asteroid defenses activated without any command.' by Titan
+2025-09-14 20:41:52 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:52.689000', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:41:52 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:52.689000', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:41:52 | INFO | Rolling window size: 10
+2025-09-14 20:41:52 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:52 | INFO | STALL DETECTED at 2025-09-15T01:41:52.689000: Temp stable at 142.2°F over last 10 readings.
+2025-09-14 20:41:52 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:52.689000: 142.2°F
+2025-09-14 20:41:53 | INFO | Sent message to topic 'buzzline_json': {'message': 'Explorers mapped the crystalline caves beneath Europa.', 'author': 'Callisto'}
+2025-09-14 20:41:53 | INFO | Consumed message: 'Explorers mapped the crystalline caves beneath Europa.' by Callisto
+2025-09-14 20:41:54 | INFO | Sent message to topic 'buzzline_json': {'message': 'The AI swore it dreamed of oceans and forests.', 'author': 'Sigma'}
+2025-09-14 20:41:54 | INFO | Consumed message: 'The AI swore it dreamed of oceans and forests.' by Sigma
+2025-09-14 20:41:55 | INFO | Opening data file in read mode: PROJECT_ROOT/data/science_fiction.json
+2025-09-14 20:41:55 | INFO | Reading data from file: PROJECT_ROOT/data/science_fiction.json
+2025-09-14 20:41:55 | INFO | Sent message to topic 'buzzline_json': {'message': 'The colony dome held steady against the Martian storm.', 'author': 'Nova'}
+2025-09-14 20:41:55 | INFO | Consumed message: 'The colony dome held steady against the Martian storm.' by Nova
+2025-09-14 20:41:56 | INFO | Sent message to topic 'buzzline_json': {'message': 'Quantum drives cut the journey to weeks instead of years.', 'author': 'Orion'}
+2025-09-14 20:41:56 | INFO | Consumed message: 'Quantum drives cut the journey to weeks instead of years.' by Orion
+2025-09-14 20:41:57 | INFO | Sent message to topic 'buzzline_json': {'message': 'Artificial gravity failed on Deck 7 again.', 'author': 'Lyra'}
+2025-09-14 20:41:57 | INFO | Consumed message: 'Artificial gravity failed on Deck 7 again.' by Lyra
+2025-09-14 20:41:57 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:41:57.690220', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:57 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:41:57.690220', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:41:57 | INFO | Rolling window size: 10
+2025-09-14 20:41:57 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:41:57 | INFO | STALL DETECTED at 2025-09-15T01:41:57.690220: Temp stable at 142.0°F over last 10 readings.
+2025-09-14 20:41:57 | WARNING | ALERT! High temperature detected at 2025-09-15T01:41:57.690220: 142.0°F
+2025-09-14 20:41:58 | INFO | Sent message to topic 'buzzline_json': {'message': 'Terraforming progress reached 42% completion.', 'author': 'Cassiopeia'}
+2025-09-14 20:41:58 | INFO | Consumed message: 'Terraforming progress reached 42% completion.' by Cassiopeia
+2025-09-14 20:41:59 | INFO | Sent message to topic 'buzzline_json': {'message': 'First contact was nothing like the simulations predicted.', 'author': 'Vega'}
+2025-09-14 20:41:59 | INFO | Consumed message: 'First contact was nothing like the simulations predicted.' by Vega
+2025-09-14 20:42:00 | INFO | Sent message to topic 'buzzline_json': {'message': 'Cryosleep chambers malfunctioned mid-voyage.', 'author': 'Atlas'}
+2025-09-14 20:42:00 | INFO | Consumed message: 'Cryosleep chambers malfunctioned mid-voyage.' by Atlas
+2025-09-14 20:42:01 | INFO | Sent message to topic 'buzzline_json': {'message': 'Asteroid miners uncovered strange alien alloys.', 'author': 'Zenith'}
+2025-09-14 20:42:01 | INFO | Consumed message: 'Asteroid miners uncovered strange alien alloys.' by Zenith
+2025-09-14 20:42:02 | INFO | Sent message to topic 'buzzline_json': {'message': 'A rogue AI now controls half the satellite network.', 'author': 'Helix'}
+2025-09-14 20:42:02 | INFO | Consumed message: 'A rogue AI now controls half the satellite network.' by Helix
+2025-09-14 20:42:02 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:42:02.691534', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:42:02 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:42:02.691534', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:42:02 | INFO | Rolling window size: 10
+2025-09-14 20:42:02 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:42:02 | INFO | STALL DETECTED at 2025-09-15T01:42:02.691534: Temp stable at 142.2°F over last 10 readings.
+2025-09-14 20:42:02 | WARNING | ALERT! High temperature detected at 2025-09-15T01:42:02.691534: 142.2°F
+2025-09-14 20:42:03 | INFO | Sent message to topic 'buzzline_json': {'message': 'The wormhole pulsed brighter than the nearby suns.', 'author': 'Aurora'}
+2025-09-14 20:42:03 | INFO | Consumed message: 'The wormhole pulsed brighter than the nearby suns.' by Aurora
+2025-09-14 20:42:04 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hydroponics yielded the first Martian strawberries.', 'author': 'Icarus'}
+2025-09-14 20:42:04 | INFO | Consumed message: 'Hydroponics yielded the first Martian strawberries.' by Icarus
+2025-09-14 20:42:05 | INFO | Sent message to topic 'buzzline_json': {'message': 'Dark energy storms make navigation unpredictable.', 'author': 'Nyx'}
+2025-09-14 20:42:05 | INFO | Consumed message: 'Dark energy storms make navigation unpredictable.' by Nyx
+2025-09-14 20:42:06 | INFO | Sent message to topic 'buzzline_json': {'message': 'Neural implants caused unexpected shared dreams.', 'author': 'Echo'}
+2025-09-14 20:42:06 | INFO | Consumed message: 'Neural implants caused unexpected shared dreams.' by Echo
+2025-09-14 20:42:07 | INFO | Sent message to topic 'buzzline_json': {'message': 'The council debated lifting the clone restrictions.', 'author': 'Rhea'}
+2025-09-14 20:42:07 | INFO | Consumed message: 'The council debated lifting the clone restrictions.' by Rhea
+2025-09-14 20:42:07 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:42:07.692542', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:42:07 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:42:07.692542', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:42:07 | INFO | Rolling window size: 10
+2025-09-14 20:42:07 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:42:07 | INFO | STALL DETECTED at 2025-09-15T01:42:07.692542: Temp stable at 142.0°F over last 10 readings.
+2025-09-14 20:42:07 | WARNING | ALERT! High temperature detected at 2025-09-15T01:42:07.692542: 142.0°F
+2025-09-14 20:42:08 | INFO | Sent message to topic 'buzzline_json': {'message': 'Radiation shields barely held during the flare.', 'author': 'Apollo'}
+2025-09-14 20:42:08 | INFO | Consumed message: 'Radiation shields barely held during the flare.' by Apollo
+2025-09-14 20:42:09 | INFO | Sent message to topic 'buzzline_json': {'message': 'The mining colony vanished overnight without a trace.', 'author': 'Zephyr'}
+2025-09-14 20:42:09 | INFO | Consumed message: 'The mining colony vanished overnight without a trace.' by Zephyr
+2025-09-14 20:42:10 | INFO | Sent message to topic 'buzzline_json': {'message': 'Alien ruins suggest a civilization older than Earth.', 'author': 'Andromeda'}
+2025-09-14 20:42:10 | INFO | Consumed message: 'Alien ruins suggest a civilization older than Earth.' by Andromeda
+2025-09-14 20:42:11 | INFO | Sent message to topic 'buzzline_json': {'message': 'The fusion core hummed louder than usual.', 'author': 'Horizon'}
+2025-09-14 20:42:11 | INFO | Consumed message: 'The fusion core hummed louder than usual.' by Horizon
+2025-09-14 20:42:12 | INFO | Sent message to topic 'buzzline_json': {'message': 'Smugglers trade in forbidden nanotech along the belt.', 'author': 'Kestrel'}
+2025-09-14 20:42:12 | INFO | Consumed message: 'Smugglers trade in forbidden nanotech along the belt.' by Kestrel
+2025-09-14 20:42:12 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:42:12.693760', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:42:12 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:42:12.693760', 'temperature': 142.2, 'high_temp': True}
+2025-09-14 20:42:12 | INFO | Rolling window size: 10
+2025-09-14 20:42:12 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:42:12 | INFO | STALL DETECTED at 2025-09-15T01:42:12.693760: Temp stable at 142.2°F over last 10 readings.
+2025-09-14 20:42:12 | WARNING | ALERT! High temperature detected at 2025-09-15T01:42:12.693760: 142.2°F
+2025-09-14 20:42:13 | INFO | Sent message to topic 'buzzline_json': {'message': 'Exosuits gave miners the strength of titans.', 'author': 'Draco'}
+2025-09-14 20:42:13 | INFO | Consumed message: 'Exosuits gave miners the strength of titans.' by Draco
+2025-09-14 20:42:14 | INFO | Sent message to topic 'buzzline_json': {'message': 'The Martian sunrise turned the sky violet and gold.', 'author': 'Phoenix'}
+2025-09-14 20:42:14 | INFO | Consumed message: 'The Martian sunrise turned the sky violet and gold.' by Phoenix
+2025-09-14 20:42:15 | INFO | Sent message to topic 'buzzline_json': {'message': 'Colonists fear the shadows beyond the outer dome.', 'author': 'Luna'}
+2025-09-14 20:42:15 | INFO | Consumed message: 'Colonists fear the shadows beyond the outer dome.' by Luna
+2025-09-14 20:42:16 | INFO | Sent message to topic 'buzzline_json': {'message': 'The black holeâ€™s pull warped every sensor reading.', 'author': 'Oberon'}
+2025-09-14 20:42:16 | INFO | Consumed message: 'The black holeâ€™s pull warped every sensor reading.' by Oberon
+2025-09-14 20:42:17 | INFO | Sent message to topic 'buzzline_json': {'message': 'Synthetic food printers failed during the blockade.', 'author': 'Cetus'}
+2025-09-14 20:42:17 | INFO | Consumed message: 'Synthetic food printers failed during the blockade.' by Cetus
+2025-09-14 20:42:17 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:42:17.694619', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:42:17 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:42:17.694619', 'temperature': 142.0, 'high_temp': True}
+2025-09-14 20:42:17 | INFO | Rolling window size: 10
+2025-09-14 20:42:17 | INFO | Max stall temperature range: 0.2 F
+2025-09-14 20:42:17 | INFO | STALL DETECTED at 2025-09-15T01:42:17.694619: Temp stable at 142.0°F over last 10 readings.
+2025-09-14 20:42:17 | WARNING | ALERT! High temperature detected at 2025-09-15T01:42:17.694619: 142.0°F
+2025-09-14 20:42:18 | INFO | Sent message to topic 'buzzline_json': {'message': 'Engineers discovered music hidden in pulsar signals.', 'author': 'Lyric'}
+2025-09-14 20:42:18 | INFO | Consumed message: 'Engineers discovered music hidden in pulsar signals.' by Lyric

@@ -1,4 +1,4 @@
-# buzzline-03-case
+# buzzline-03-pinkston
 
 Streaming data does not have to be simple text.
 Many of us are familiar with streaming video content and audio (e.g. music) files.
@@ -199,7 +199,50 @@ Hint: Windows:
 py -m consumers.csv_consumer_case
 ```
 
----
+## Task 7. Create custom json producer file
+
+Create a new file named json_producer_pinkston.py. Copy and paste contents of json_producer_case.py into json_producer_pinkston.py as a starting basis.
+
+## Task 8. Add, commit, and push after creating custom json producer file
+
+```shell
+.venv\Scripts\activate
+git add.
+git commit -m "created custom producers file"
+git push -u origin main
+```
+
+## Task 9. Modify custom json producer file
+
+Update custom producer file json_producer_pinkston.py to pull custom messages from custom json file, science_fiction.json
+
+```shell
+# Set the name of the data file
+DATA_FILE: pathlib.Path = DATA_FOLDER.joinpath("science_fiction.json")
+```
+
+## Task 10. Create and update custom csv producer file
+
+Create a new file named csv_consumer_pinkston.py. Copy and paste contents of csv_consumer_case.py into csv_consumer_pinkston.py as a starting basis.
+
+## Task 11. Add, commit, and push after creating custom consumers file
+
+```shell
+.venv\Scripts\activate
+git add.
+git commit -m "created custom csv consumers file"
+git push -u origin main
+```
+
+## Task 12. Make final update to README and fianl git add, commit, push
+
+
+```shell
+.venv\Scripts\activate
+git add.
+git commit -m "make final update to README"
+git push -u origin main
+```
 
 ## How To Stop a Continuous Process
 
